@@ -1,0 +1,132 @@
+.body {
+  background-color: #ece3e3;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.header1 {
+  display: flex;
+  justify-content: space-between;
+  padding:30px;
+}
+.sign-in {
+  background-color: #d1c4c4;
+  color: #006a50;
+  border-radius: 7px;
+  padding: 0px 30px 0px 30px;
+}
+.Bangladesh2 {
+  color: #635c5c;
+}
+.baner {
+  background-color: #c6e4d6;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  border-radius: 8px;
+  padding: 20px;
+  align-items: center;
+}
+
+.Explore {
+  background-color: #006a50;
+  border-radius: 8px;
+  padding: 6px;
+}
+.card-1 {
+  background-color: #c0d1ee;
+  border-radius: 10px;
+  margin: 10px 10px;
+  padding: 25px;
+}
+.card-2 {
+  background-color: #c6e4d6;
+  border-radius: 10px;
+  margin: 10px 10px;
+  padding: 25px;
+}
+.card-3 {
+  background-color: #f7ebcf;
+  border-radius: 10px;
+  margin: 10px 10px;
+  padding: 25px;
+}
+.all-card {
+  display: flex;
+  /* max-height: fit-content;
+    max-width: fit-content; */
+}
+.learn-more-btn-1 {
+  margin-top: 30px;
+  background-color: #5490f5;
+  padding: 10px;
+  border-radius: 8px;
+}
+.learn-more-btn-2 {
+  margin-top: 30px;
+  background-color: #09a15c;
+  padding: 10px;
+  border-radius: 8px;
+}
+.learn-more-btn-3 {
+  margin-top: 30px;
+  background-color: #ffc239;
+  padding: 10px;
+  border-radius: 8px;
+}
+.img-dabll {
+  text-align: -20px;
+}
+.lorem-p {
+}
+.DR-muhammad {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px;
+}
+.Recent-news {
+}
+.News {
+  display: flex;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+}
+.s-light {
+  border-radius: 30px;
+}
+.Bangladesh {
+  padding-left: 30px;
+}
+.Read-button {
+  background-color: #006a50;
+  padding: 20px;
+  border-radius: 8px;
+}
+.more-2 {
+  background-color: #006a50;
+  padding: 20px;
+  border-radius: 8px;
+}
+.card-02 {
+  display: flex;
+  background-color: #fff;
+  padding: 30px;
+  margin-top: 30px;
+}
+.Donate {
+  text-align: center;
+}
+.Taka {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  margin: 30px;
+  gap: 20px;
+}
+.taka-btn {
+  padding: 30px 40px;
+  text-align: ;
+  background-color: #fff;
+  border: 10px;
+}
